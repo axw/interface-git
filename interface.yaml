@@ -1,0 +1,4 @@
+name: git
+summary: Basic Git interface
+version: 1
+maintainer: "Andrew Wilkins <axwalk@gmail.com>"
